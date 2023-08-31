@@ -1,1 +1,1 @@
-# AnimalHierrachy
+# AnimalHierarchy
